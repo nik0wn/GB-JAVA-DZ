@@ -1,6 +1,7 @@
 package task1;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Random;
 
 public class Main {
@@ -29,7 +30,6 @@ public class Main {
             }
         }
         System.out.println(m1);
-
         // task 4
         //  Найти все некратные n числа в диапазоне от Short.MIN_VALUE до i и сохранить в массив m2
         ArrayList <Integer> m2 = new ArrayList<>();
